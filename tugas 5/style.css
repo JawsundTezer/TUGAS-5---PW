@@ -1,0 +1,36 @@
+.img-header {
+    width: 200px;
+    border: 3px solid #313131;
+}
+
+hr {
+    width: 200px;
+    border-top: 4px solid #313131;
+    border-radius: 4px;
+    opacity: 1;
+}
+
+#about {
+    min-height: 100px;
+}
+
+.about {
+    min-height: 500px;
+}
+
+.img-fluid {
+    transition: 0.3s;
+}
+
+.img-fluid:hover {
+    border-radius: 10px;
+    box-shadow: 19px 19px 46px -16px rgba(0,0,0,0.66);
+    -webkit-box-shadow: 19px 19px 46px -16px rgba(0,0,0,0.66);
+    -moz-box-shadow: 19px 19px 46px -16px rgba(0,0,0,0.66);
+}
+
+footer {
+    min-height: 100px;
+    background-color: #313131;
+    color: #fff;
+}
